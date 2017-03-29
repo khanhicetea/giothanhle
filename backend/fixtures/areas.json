@@ -1,0 +1,6178 @@
+[
+    {
+        "model": "backend.area",
+        "pk": 1,
+        "fields": {
+            "name": "An Giang",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 10,
+        "fields": {
+            "name": "B\u00ecnh Ph\u01b0\u1edbc",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 100,
+        "fields": {
+            "name": "Huy\u1ec7n An Ph\u00fa",
+            "parent": 1
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 101,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u00e2u Ph\u00fa",
+            "parent": 1
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 102,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+            "parent": 1
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 103,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u1ee3 M\u1edbi",
+            "parent": 1
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 104,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00fa T\u00e2n",
+            "parent": 1
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 105,
+        "fields": {
+            "name": "Huy\u1ec7n Tho\u1ea1i S\u01a1n",
+            "parent": 1
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 106,
+        "fields": {
+            "name": "Huy\u1ec7n T\u1ecbnh Bi\u00ean",
+            "parent": 1
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 107,
+        "fields": {
+            "name": "Huy\u1ec7n Tri T\u00f4n",
+            "parent": 1
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 108,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Ch\u00e2u \u0110\u1ed1c",
+            "parent": 1
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 109,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Long Xuy\u00ean",
+            "parent": 1
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 11,
+        "fields": {
+            "name": "B\u00ecnh Thu\u1eadn",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 110,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 T\u00e2n Ch\u00e2u",
+            "parent": 1
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 111,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u00e2u \u0110\u1ee9c",
+            "parent": 2
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 112,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ea5t \u0110\u1ecf",
+            "parent": 2
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 113,
+        "fields": {
+            "name": "Huy\u1ec7n Long \u0110i\u1ec1n",
+            "parent": 2
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 114,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n Th\u00e0nh",
+            "parent": 2
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 115,
+        "fields": {
+            "name": "Huy\u1ec7n Xuy\u00ean M\u1ed9c",
+            "parent": 2
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 116,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 B\u00e0 R\u1ecba",
+            "parent": 2
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 117,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 V\u0169ng T\u00e0u",
+            "parent": 2
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 118,
+        "fields": {
+            "name": "Huy\u1ec7n Hi\u1ec7p H\u00f2a",
+            "parent": 3
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 119,
+        "fields": {
+            "name": "Huy\u1ec7n L\u1ea1ng Giang",
+            "parent": 3
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 12,
+        "fields": {
+            "name": "C\u00e0 Mau",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 120,
+        "fields": {
+            "name": "Huy\u1ec7n L\u1ee5c Nam",
+            "parent": 3
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 121,
+        "fields": {
+            "name": "Huy\u1ec7n L\u1ee5c Ng\u1ea1n",
+            "parent": 3
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 122,
+        "fields": {
+            "name": "Huy\u1ec7n S\u01a1n \u0110\u1ed9ng",
+            "parent": 3
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 123,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n Y\u00ean",
+            "parent": 3
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 124,
+        "fields": {
+            "name": "Huy\u1ec7n Vi\u1ec7t Y\u00ean",
+            "parent": 3
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 125,
+        "fields": {
+            "name": "Huy\u1ec7n Y\u00ean D\u0169ng",
+            "parent": 3
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 126,
+        "fields": {
+            "name": "Huy\u1ec7n Y\u00ean Th\u1ebf",
+            "parent": 3
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 127,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 B\u1eafc Giang",
+            "parent": 3
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 128,
+        "fields": {
+            "name": "Huy\u1ec7n Ba B\u1ec3",
+            "parent": 4
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 129,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1ea1ch Th\u00f4ng",
+            "parent": 4
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 13,
+        "fields": {
+            "name": "C\u1ea7n Th\u01a1",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 130,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u1ee3 \u0110\u1ed3n",
+            "parent": 4
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 131,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u1ee3 M\u1edbi",
+            "parent": 4
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 132,
+        "fields": {
+            "name": "Huy\u1ec7n Na R\u00ec",
+            "parent": 4
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 133,
+        "fields": {
+            "name": "Huy\u1ec7n Ng\u00e2n S\u01a1n",
+            "parent": 4
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 134,
+        "fields": {
+            "name": "Huy\u1ec7n P\u00e1c N\u1eb7m",
+            "parent": 4
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 135,
+        "fields": {
+            "name": "Th\u00e0nh Ph\u1ed1 B\u1eafc K\u1ea1n",
+            "parent": 4
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 136,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u00f4ng H\u1ea3i",
+            "parent": 5
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 137,
+        "fields": {
+            "name": "Huy\u1ec7n Ho\u00e0 B\u00ecnh",
+            "parent": 5
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 138,
+        "fields": {
+            "name": "Huy\u1ec7n H\u1ed3ng D\u00e2n",
+            "parent": 5
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 139,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u01b0\u1edbc Long",
+            "parent": 5
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 14,
+        "fields": {
+            "name": "Cao B\u1eb1ng",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 140,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0129nh L\u1ee3i",
+            "parent": 5
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 141,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 B\u1ea1c Li\u00eau",
+            "parent": 5
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 142,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Gi\u00e1 Rai",
+            "parent": 5
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 143,
+        "fields": {
+            "name": "Huy\u1ec7n Gia B\u00ecnh",
+            "parent": 6
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 144,
+        "fields": {
+            "name": "Huy\u1ec7n L\u01b0\u01a1ng T\u00e0i",
+            "parent": 6
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 145,
+        "fields": {
+            "name": "Huy\u1ec7n Qu\u1ebf V\u00f5",
+            "parent": 6
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 146,
+        "fields": {
+            "name": "Huy\u1ec7n Thu\u1eadn Th\u00e0nh",
+            "parent": 6
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 147,
+        "fields": {
+            "name": "Huy\u1ec7n Ti\u00ean Du",
+            "parent": 6
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 148,
+        "fields": {
+            "name": "Huy\u1ec7n Y\u00ean Phong",
+            "parent": 6
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 149,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 B\u1eafc Ninh",
+            "parent": 6
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 15,
+        "fields": {
+            "name": "\u0110\u00e0 N\u1eb5ng",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 150,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 T\u1eeb S\u01a1n",
+            "parent": 6
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 151,
+        "fields": {
+            "name": "Huy\u1ec7n Ba Tri",
+            "parent": 7
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 152,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00ecnh \u0110\u1ea1i",
+            "parent": 7
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 153,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+            "parent": 7
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 154,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u1ee3 L\u00e1ch",
+            "parent": 7
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 155,
+        "fields": {
+            "name": "Huy\u1ec7n Gi\u1ed3ng Tr\u00f4m",
+            "parent": 7
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 156,
+        "fields": {
+            "name": "Huy\u1ec7n M\u1ecf C\u00e0y B\u1eafc",
+            "parent": 7
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 157,
+        "fields": {
+            "name": "Huy\u1ec7n M\u1ecf C\u00e0y Nam",
+            "parent": 7
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 158,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u1ea1nh Ph\u00fa",
+            "parent": 7
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 159,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 B\u1ebfn Tre",
+            "parent": 7
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 16,
+        "fields": {
+            "name": "\u0110\u1eafk L\u1eafk",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 160,
+        "fields": {
+            "name": "Huy\u1ec7n An L\u00e3o",
+            "parent": 8
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 161,
+        "fields": {
+            "name": "Huy\u1ec7n Ho\u00e0i \u00c2n",
+            "parent": 8
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 162,
+        "fields": {
+            "name": "Huy\u1ec7n Ho\u00e0i Nh\u01a1n",
+            "parent": 8
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 163,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00f9 C\u00e1t",
+            "parent": 8
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 164,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00f9 M\u1ef9",
+            "parent": 8
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 165,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2y S\u01a1n",
+            "parent": 8
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 166,
+        "fields": {
+            "name": "Huy\u1ec7n Tuy Ph\u01b0\u1edbc",
+            "parent": 8
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 167,
+        "fields": {
+            "name": "Huy\u1ec7n V\u00e2n Canh",
+            "parent": 8
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 168,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0129nh Th\u1ea1nh",
+            "parent": 8
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 169,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Qui Nh\u01a1n",
+            "parent": 8
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 17,
+        "fields": {
+            "name": "\u0110\u1eafk N\u00f4ng",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 170,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 An Nh\u01a1n",
+            "parent": 8
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 171,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1eafc T\u00e2n Uy\u00ean",
+            "parent": 9
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 172,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00e0u B\u00e0ng",
+            "parent": 9
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 173,
+        "fields": {
+            "name": "Huy\u1ec7n D\u1ea7u Ti\u1ebfng",
+            "parent": 9
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 174,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00fa Gi\u00e1o",
+            "parent": 9
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 175,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Th\u1ee7 D\u1ea7u M\u1ed9t",
+            "parent": 9
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 176,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 B\u1ebfn C\u00e1t",
+            "parent": 9
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 177,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 D\u0129 An",
+            "parent": 9
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 178,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 T\u00e2n Uy\u00ean",
+            "parent": 9
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 179,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Thu\u1eadn An",
+            "parent": 9
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 18,
+        "fields": {
+            "name": "\u0110i\u1ec7n Bi\u00ean",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 180,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00f9 \u0110\u0103ng",
+            "parent": 10
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 181,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00f9 \u0110\u1ed1p",
+            "parent": 10
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 182,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00f9 Gia M\u1eadp",
+            "parent": 10
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 183,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u01a1n Th\u00e0nh",
+            "parent": 10
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 184,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ed3ng Ph\u00f9",
+            "parent": 10
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 185,
+        "fields": {
+            "name": "Huy\u1ec7n H\u1edbn Qu\u1ea3n",
+            "parent": 10
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 186,
+        "fields": {
+            "name": "Huy\u1ec7n L\u1ed9c Ninh",
+            "parent": 10
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 187,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00fa Ri\u1ec1ng",
+            "parent": 10
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 188,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 B\u00ecnh Long",
+            "parent": 10
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 189,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 \u0110\u1ed3ng Xo\u00e0i",
+            "parent": 10
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 19,
+        "fields": {
+            "name": "\u0110\u1ed3ng Nai",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 190,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Ph\u01b0\u1edbc Long",
+            "parent": 10
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 191,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1eafc B\u00ecnh",
+            "parent": 11
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 192,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ee9c Linh",
+            "parent": 11
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 193,
+        "fields": {
+            "name": "Huy\u1ec7n H\u00e0m T\u00e2n",
+            "parent": 11
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 194,
+        "fields": {
+            "name": "Huy\u1ec7n H\u00e0m Thu\u1eadn B\u1eafc",
+            "parent": 11
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 195,
+        "fields": {
+            "name": "Huy\u1ec7n H\u00e0m Thu\u1eadn Nam",
+            "parent": 11
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 196,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00fa Qu\u00ed",
+            "parent": 11
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 197,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e1nh Linh",
+            "parent": 11
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 198,
+        "fields": {
+            "name": "Huy\u1ec7n Tuy Phong",
+            "parent": 11
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 199,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Phan Thi\u1ebft",
+            "parent": 11
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 2,
+        "fields": {
+            "name": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 20,
+        "fields": {
+            "name": "\u0110\u1ed3ng Th\u00e1p",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 200,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 La Gi",
+            "parent": 11
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 201,
+        "fields": {
+            "name": "Huy\u1ec7n C\u00e1i N\u01b0\u1edbc",
+            "parent": 12
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 202,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ea7m D\u01a1i",
+            "parent": 12
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 203,
+        "fields": {
+            "name": "Huy\u1ec7n N\u0103m C\u0103n",
+            "parent": 12
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 204,
+        "fields": {
+            "name": "Huy\u1ec7n Ng\u1ecdc Hi\u1ec3n",
+            "parent": 12
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 205,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00fa T\u00e2n",
+            "parent": 12
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 206,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u1edbi B\u00ecnh",
+            "parent": 12
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 207,
+        "fields": {
+            "name": "Huy\u1ec7n Tr\u1ea7n V\u0103n Th\u1eddi",
+            "parent": 12
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 208,
+        "fields": {
+            "name": "Huy\u1ec7n U Minh",
+            "parent": 12
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 209,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 C\u00e0 Mau",
+            "parent": 12
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 21,
+        "fields": {
+            "name": "Gia Lai",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 210,
+        "fields": {
+            "name": "Huy\u1ec7n C\u1edd \u0110\u1ecf",
+            "parent": 13
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 211,
+        "fields": {
+            "name": "Huy\u1ec7n Phong \u0110i\u1ec1n",
+            "parent": 13
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 212,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u1edbi Lai",
+            "parent": 13
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 213,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0129nh Th\u1ea1nh",
+            "parent": 13
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 214,
+        "fields": {
+            "name": "Qu\u1eadn B\u00ecnh Thu\u1ef7",
+            "parent": 13
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 215,
+        "fields": {
+            "name": "Qu\u1eadn C\u00e1i R\u0103ng",
+            "parent": 13
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 216,
+        "fields": {
+            "name": "Qu\u1eadn Ninh Ki\u1ec1u",
+            "parent": 13
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 217,
+        "fields": {
+            "name": "Qu\u1eadn \u00d4 M\u00f4n",
+            "parent": 13
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 218,
+        "fields": {
+            "name": "Qu\u1eadn Th\u1ed1t N\u1ed1t",
+            "parent": 13
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 219,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1ea3o L\u1ea1c",
+            "parent": 14
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 22,
+        "fields": {
+            "name": "H\u00e0 Giang",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 220,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1ea3o L\u00e2m",
+            "parent": 14
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 221,
+        "fields": {
+            "name": "Huy\u1ec7n H\u1ea1 Lang",
+            "parent": 14
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 222,
+        "fields": {
+            "name": "Huy\u1ec7n H\u00e0 Qu\u1ea3ng",
+            "parent": 14
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 223,
+        "fields": {
+            "name": "Huy\u1ec7n Ho\u00e0 An",
+            "parent": 14
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 224,
+        "fields": {
+            "name": "Huy\u1ec7n Nguy\u00ean B\u00ecnh",
+            "parent": 14
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 225,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u1ee5c Ho\u00e0",
+            "parent": 14
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 226,
+        "fields": {
+            "name": "Huy\u1ec7n Qu\u1ea3ng Uy\u00ean",
+            "parent": 14
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 227,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u1ea1ch An",
+            "parent": 14
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 228,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u00f4ng N\u00f4ng",
+            "parent": 14
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 229,
+        "fields": {
+            "name": "Huy\u1ec7n Tr\u00e0 L\u0129nh",
+            "parent": 14
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 23,
+        "fields": {
+            "name": "H\u00e0 Nam",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 230,
+        "fields": {
+            "name": "Huy\u1ec7n Tr\u00f9ng Kh\u00e1nh",
+            "parent": 14
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 231,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Cao B\u1eb1ng",
+            "parent": 14
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 232,
+        "fields": {
+            "name": "Huy\u1ec7n H\u00f2a Vang",
+            "parent": 15
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 233,
+        "fields": {
+            "name": "Qu\u1eadn C\u1ea9m L\u1ec7",
+            "parent": 15
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 234,
+        "fields": {
+            "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u",
+            "parent": 15
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 235,
+        "fields": {
+            "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u",
+            "parent": 15
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 236,
+        "fields": {
+            "name": "Qu\u1eadn Ng\u0169 H\u00e0nh S\u01a1n",
+            "parent": 15
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 237,
+        "fields": {
+            "name": "Qu\u1eadn S\u01a1n Tr\u00e0",
+            "parent": 15
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 238,
+        "fields": {
+            "name": "Qu\u1eadn Thanh Kh\u00ea",
+            "parent": 15
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 239,
+        "fields": {
+            "name": "Huy\u1ec7n Bu\u00f4n \u0110\u00f4n",
+            "parent": 16
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 24,
+        "fields": {
+            "name": "H\u00e0 N\u1ed9i",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 240,
+        "fields": {
+            "name": "Huy\u1ec7n C\u01b0 Kuin",
+            "parent": 16
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 241,
+        "fields": {
+            "name": "Huy\u1ec7n C\u01b0 M'gar",
+            "parent": 16
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 242,
+        "fields": {
+            "name": "Huy\u1ec7n Ea H'leo",
+            "parent": 16
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 243,
+        "fields": {
+            "name": "Huy\u1ec7n Ea Kar",
+            "parent": 16
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 244,
+        "fields": {
+            "name": "Huy\u1ec7n Ea S\u00fap",
+            "parent": 16
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 245,
+        "fields": {
+            "name": "Huy\u1ec7n Kr\u00f4ng A Na",
+            "parent": 16
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 246,
+        "fields": {
+            "name": "Huy\u1ec7n Kr\u00f4ng B\u00f4ng",
+            "parent": 16
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 247,
+        "fields": {
+            "name": "Huy\u1ec7n Kr\u00f4ng B\u00fak",
+            "parent": 16
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 248,
+        "fields": {
+            "name": "Huy\u1ec7n Kr\u00f4ng N\u0103ng",
+            "parent": 16
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 249,
+        "fields": {
+            "name": "Huy\u1ec7n Kr\u00f4ng P\u1eafc",
+            "parent": 16
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 25,
+        "fields": {
+            "name": "H\u00e0 T\u0129nh",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 250,
+        "fields": {
+            "name": "Huy\u1ec7n L\u1eafk",
+            "parent": 16
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 251,
+        "fields": {
+            "name": "Huy\u1ec7n M'\u0110r\u1eafk",
+            "parent": 16
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 252,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Bu\u00f4n Ma Thu\u1ed9t",
+            "parent": 16
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 253,
+        "fields": {
+            "name": "Th\u1ecb X\u00e3 Bu\u00f4n H\u1ed3",
+            "parent": 16
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 254,
+        "fields": {
+            "name": "Huy\u1ec7n C\u01b0 J\u00fat",
+            "parent": 17
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 255,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u0103k Glong",
+            "parent": 17
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 256,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1eafk Mil",
+            "parent": 17
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 257,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1eafk R'L\u1ea5p",
+            "parent": 17
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 258,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1eafk Song",
+            "parent": 17
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 259,
+        "fields": {
+            "name": "Huy\u1ec7n Kr\u00f4ng N\u00f4",
+            "parent": 17
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 26,
+        "fields": {
+            "name": "H\u1ea3i D\u01b0\u01a1ng",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 260,
+        "fields": {
+            "name": "Huy\u1ec7n Tuy \u0110\u1ee9c",
+            "parent": 17
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 261,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Gia Ngh\u0129a",
+            "parent": 17
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 262,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110i\u1ec7n Bi\u00ean",
+            "parent": 18
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 263,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110i\u1ec7n Bi\u00ean \u0110\u00f4ng",
+            "parent": 18
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 264,
+        "fields": {
+            "name": "Huy\u1ec7n M\u01b0\u1eddng \u1ea2ng",
+            "parent": 18
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 265,
+        "fields": {
+            "name": "Huy\u1ec7n M\u01b0\u1eddng Ch\u00e0",
+            "parent": 18
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 266,
+        "fields": {
+            "name": "Huy\u1ec7n M\u01b0\u1eddng Nh\u00e9",
+            "parent": 18
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 267,
+        "fields": {
+            "name": "Huy\u1ec7n N\u1eadm P\u1ed3",
+            "parent": 18
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 268,
+        "fields": {
+            "name": "Huy\u1ec7n T\u1ee7a Ch\u00f9a",
+            "parent": 18
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 269,
+        "fields": {
+            "name": "Huy\u1ec7n Tu\u1ea7n Gi\u00e1o",
+            "parent": 18
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 27,
+        "fields": {
+            "name": "H\u1ea3i Ph\u00f2ng",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 270,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
+            "parent": 18
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 271,
+        "fields": {
+            "name": "Th\u1ecb X\u00e3 M\u01b0\u1eddng Lay",
+            "parent": 18
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 272,
+        "fields": {
+            "name": "Huy\u1ec7n C\u1ea9m M\u1ef9",
+            "parent": 19
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 273,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ecbnh Qu\u00e1n",
+            "parent": 19
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 274,
+        "fields": {
+            "name": "Huy\u1ec7n Long Th\u00e0nh",
+            "parent": 19
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 275,
+        "fields": {
+            "name": "Huy\u1ec7n Nh\u01a1n Tr\u1ea1ch",
+            "parent": 19
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 276,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n Ph\u00fa",
+            "parent": 19
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 277,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u1ed1ng Nh\u1ea5t",
+            "parent": 19
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 278,
+        "fields": {
+            "name": "Huy\u1ec7n Tr\u1ea3ng Bom",
+            "parent": 19
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 279,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0129nh C\u1eedu",
+            "parent": 19
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 28,
+        "fields": {
+            "name": "H\u1eadu Giang",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 280,
+        "fields": {
+            "name": "Huy\u1ec7n Xu\u00e2n L\u1ed9c",
+            "parent": 19
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 281,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Bi\u00ean H\u00f2a",
+            "parent": 19
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 282,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Long Kh\u00e1nh",
+            "parent": 19
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 283,
+        "fields": {
+            "name": "Huy\u1ec7n Cao L\u00e3nh",
+            "parent": 20
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 284,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+            "parent": 20
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 285,
+        "fields": {
+            "name": "Huy\u1ec7n H\u1ed3ng Ng\u1ef1",
+            "parent": 20
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 286,
+        "fields": {
+            "name": "Huy\u1ec7n Lai Vung",
+            "parent": 20
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 287,
+        "fields": {
+            "name": "Huy\u1ec7n L\u1ea5p V\u00f2",
+            "parent": 20
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 288,
+        "fields": {
+            "name": "Huy\u1ec7n Tam N\u00f4ng",
+            "parent": 20
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 289,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n H\u1ed3ng",
+            "parent": 20
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 29,
+        "fields": {
+            "name": "Ho\u00e0 B\u00ecnh",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 290,
+        "fields": {
+            "name": "Huy\u1ec7n Thanh B\u00ecnh",
+            "parent": 20
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 291,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u00e1p M\u01b0\u1eddi",
+            "parent": 20
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 292,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Cao L\u00e3nh",
+            "parent": 20
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 293,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Sa \u0110\u00e9c",
+            "parent": 20
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 294,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 H\u1ed3ng Ng\u1ef1",
+            "parent": 20
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 295,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u01b0 P\u0103h",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 296,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u01b0 Pr\u00f4ng",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 297,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u01b0 P\u01b0h",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 298,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u01b0 S\u00ea",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 299,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u0103k \u0110oa",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 3,
+        "fields": {
+            "name": "B\u1eafc Giang",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 30,
+        "fields": {
+            "name": "H\u1ed3 Ch\u00ed Minh",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 300,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u0103k P\u01a1",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 301,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ee9c C\u01a1",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 302,
+        "fields": {
+            "name": "Huy\u1ec7n Ia Grai",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 303,
+        "fields": {
+            "name": "Huy\u1ec7n Ia Pa",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 304,
+        "fields": {
+            "name": "Huy\u1ec7n KBang",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 305,
+        "fields": {
+            "name": "Huy\u1ec7n K\u00f4ng Chro",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 306,
+        "fields": {
+            "name": "Huy\u1ec7n Kr\u00f4ng Pa",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 307,
+        "fields": {
+            "name": "Huy\u1ec7n Mang Yang",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 308,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00fa Thi\u1ec7n",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 309,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Pleiku",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 31,
+        "fields": {
+            "name": "H\u01b0ng Y\u00ean",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 310,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 An Kh\u00ea",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 311,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Ayun Pa",
+            "parent": 21
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 312,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1eafc M\u00ea",
+            "parent": 22
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 313,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1eafc Quang",
+            "parent": 22
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 314,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ed3ng V\u0103n",
+            "parent": 22
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 315,
+        "fields": {
+            "name": "Huy\u1ec7n Ho\u00e0ng Su Ph\u00ec",
+            "parent": 22
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 316,
+        "fields": {
+            "name": "Huy\u1ec7n M\u00e8o V\u1ea1c",
+            "parent": 22
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 317,
+        "fields": {
+            "name": "Huy\u1ec7n Qu\u1ea3n B\u1ea1",
+            "parent": 22
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 318,
+        "fields": {
+            "name": "Huy\u1ec7n Quang B\u00ecnh",
+            "parent": 22
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 319,
+        "fields": {
+            "name": "Huy\u1ec7n V\u1ecb Xuy\u00ean",
+            "parent": 22
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 32,
+        "fields": {
+            "name": "Kh\u00e1nh H\u00f2a",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 320,
+        "fields": {
+            "name": "Huy\u1ec7n X\u00edn M\u1ea7n",
+            "parent": 22
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 321,
+        "fields": {
+            "name": "Huy\u1ec7n Y\u00ean Minh",
+            "parent": 22
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 322,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 Giang",
+            "parent": 22
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 323,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00ecnh L\u1ee5c",
+            "parent": 23
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 324,
+        "fields": {
+            "name": "Huy\u1ec7n Duy Ti\u00ean",
+            "parent": 23
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 325,
+        "fields": {
+            "name": "Huy\u1ec7n Kim B\u1ea3ng",
+            "parent": 23
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 326,
+        "fields": {
+            "name": "Huy\u1ec7n L\u00fd Nh\u00e2n",
+            "parent": 23
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 327,
+        "fields": {
+            "name": "Huy\u1ec7n Thanh Li\u00eam",
+            "parent": 23
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 328,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Ph\u1ee7 L\u00fd",
+            "parent": 23
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 329,
+        "fields": {
+            "name": "Huy\u1ec7n Ba V\u00ec",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 33,
+        "fields": {
+            "name": "Ki\u00ean Giang",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 330,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u01b0\u01a1ng M\u1ef9",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 331,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110an Ph\u01b0\u1ee3ng",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 332,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u00f4ng Anh",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 333,
+        "fields": {
+            "name": "Huy\u1ec7n Gia L\u00e2m",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 334,
+        "fields": {
+            "name": "Huy\u1ec7n Ho\u00e0i \u0110\u1ee9c",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 335,
+        "fields": {
+            "name": "Huy\u1ec7n M\u00ea Linh",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 336,
+        "fields": {
+            "name": "Huy\u1ec7n M\u1ef9 \u0110\u1ee9c",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 337,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00fa Xuy\u00ean",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 338,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00fac Th\u1ecd",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 339,
+        "fields": {
+            "name": "Huy\u1ec7n Qu\u1ed1c Oai",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 34,
+        "fields": {
+            "name": "Kon Tum",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 340,
+        "fields": {
+            "name": "Huy\u1ec7n S\u00f3c S\u01a1n",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 341,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u1ea1ch Th\u1ea5t",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 342,
+        "fields": {
+            "name": "Huy\u1ec7n Thanh Oai",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 343,
+        "fields": {
+            "name": "Huy\u1ec7n Thanh Tr\u00ec",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 344,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u01b0\u1eddng T\u00edn",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 345,
+        "fields": {
+            "name": "Huy\u1ec7n \u1ee8ng H\u00f2a",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 346,
+        "fields": {
+            "name": "Qu\u1eadn Ba \u0110\u00ecnh",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 347,
+        "fields": {
+            "name": "Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 348,
+        "fields": {
+            "name": "Qu\u1eadn C\u1ea7u Gi\u1ea5y",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 349,
+        "fields": {
+            "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 35,
+        "fields": {
+            "name": "Lai Ch\u00e2u",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 350,
+        "fields": {
+            "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 351,
+        "fields": {
+            "name": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 352,
+        "fields": {
+            "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 353,
+        "fields": {
+            "name": "Qu\u1eadn Ho\u00e0ng Mai",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 354,
+        "fields": {
+            "name": "Qu\u1eadn Long Bi\u00ean",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 355,
+        "fields": {
+            "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 356,
+        "fields": {
+            "name": "Qu\u1eadn T\u00e2y H\u1ed3",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 357,
+        "fields": {
+            "name": "Qu\u1eadn Thanh Xu\u00e2n",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 358,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 S\u01a1n T\u00e2y",
+            "parent": 24
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 359,
+        "fields": {
+            "name": "Huy\u1ec7n C\u1ea9m Xuy\u00ean",
+            "parent": 25
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 36,
+        "fields": {
+            "name": "L\u00e2m \u0110\u1ed3ng",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 360,
+        "fields": {
+            "name": "Huy\u1ec7n Can L\u1ed9c",
+            "parent": 25
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 361,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ee9c Th\u1ecd",
+            "parent": 25
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 362,
+        "fields": {
+            "name": "Huy\u1ec7n H\u01b0\u01a1ng Kh\u00ea",
+            "parent": 25
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 363,
+        "fields": {
+            "name": "Huy\u1ec7n H\u01b0\u01a1ng S\u01a1n",
+            "parent": 25
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 364,
+        "fields": {
+            "name": "Huy\u1ec7n K\u1ef3 Anh",
+            "parent": 25
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 365,
+        "fields": {
+            "name": "Huy\u1ec7n L\u1ed9c H\u00e0",
+            "parent": 25
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 366,
+        "fields": {
+            "name": "Huy\u1ec7n Nghi Xu\u00e2n",
+            "parent": 25
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 367,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u1ea1ch H\u00e0",
+            "parent": 25
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 368,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0169 Quang",
+            "parent": 25
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 369,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 H\u00e0 T\u0129nh",
+            "parent": 25
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 37,
+        "fields": {
+            "name": "L\u1ea1ng S\u01a1n",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 370,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 H\u1ed3ng L\u0129nh",
+            "parent": 25
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 371,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 K\u1ef3 Anh",
+            "parent": 25
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 372,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00ecnh Giang",
+            "parent": 26
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 373,
+        "fields": {
+            "name": "Huy\u1ec7n C\u1ea9m Gi\u00e0ng",
+            "parent": 26
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 374,
+        "fields": {
+            "name": "Huy\u1ec7n Gia L\u1ed9c",
+            "parent": 26
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 375,
+        "fields": {
+            "name": "Huy\u1ec7n Kim Th\u00e0nh",
+            "parent": 26
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 376,
+        "fields": {
+            "name": "Huy\u1ec7n Kinh M\u00f4n",
+            "parent": 26
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 377,
+        "fields": {
+            "name": "Huy\u1ec7n Nam S\u00e1ch",
+            "parent": 26
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 378,
+        "fields": {
+            "name": "Huy\u1ec7n Ninh Giang",
+            "parent": 26
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 379,
+        "fields": {
+            "name": "Huy\u1ec7n Thanh H\u00e0",
+            "parent": 26
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 38,
+        "fields": {
+            "name": "L\u00e0o Cai",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 380,
+        "fields": {
+            "name": "Huy\u1ec7n Thanh Mi\u1ec7n",
+            "parent": 26
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 381,
+        "fields": {
+            "name": "Huy\u1ec7n T\u1ee9 K\u1ef3",
+            "parent": 26
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 382,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 H\u1ea3i D\u01b0\u01a1ng",
+            "parent": 26
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 383,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Ch\u00ed Linh",
+            "parent": 26
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 384,
+        "fields": {
+            "name": "Huy\u1ec7n An D\u01b0\u01a1ng",
+            "parent": 27
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 385,
+        "fields": {
+            "name": "Huy\u1ec7n An L\u00e3o",
+            "parent": 27
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 386,
+        "fields": {
+            "name": "Huy\u1ec7n C\u00e1t H\u1ea3i",
+            "parent": 27
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 387,
+        "fields": {
+            "name": "Huy\u1ec7n Ki\u1ebfn Thu\u1ef5",
+            "parent": 27
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 388,
+        "fields": {
+            "name": "Huy\u1ec7n Thu\u1ef7 Nguy\u00ean",
+            "parent": 27
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 389,
+        "fields": {
+            "name": "Huy\u1ec7n Ti\u00ean L\u00e3ng",
+            "parent": 27
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 39,
+        "fields": {
+            "name": "Long An",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 390,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0129nh B\u1ea3o",
+            "parent": 27
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 391,
+        "fields": {
+            "name": "Qu\u1eadn \u0110\u1ed3 S\u01a1n",
+            "parent": 27
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 392,
+        "fields": {
+            "name": "Qu\u1eadn D\u01b0\u01a1ng Kinh",
+            "parent": 27
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 393,
+        "fields": {
+            "name": "Qu\u1eadn H\u1ea3i An",
+            "parent": 27
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 394,
+        "fields": {
+            "name": "Qu\u1eadn H\u1ed3ng B\u00e0ng",
+            "parent": 27
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 395,
+        "fields": {
+            "name": "Qu\u1eadn Ki\u1ebfn An",
+            "parent": 27
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 396,
+        "fields": {
+            "name": "Qu\u1eadn L\u00ea Ch\u00e2n",
+            "parent": 27
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 397,
+        "fields": {
+            "name": "Qu\u00e1\u00ba\u00adn Ng\u00f4 Quy\u1ec1n",
+            "parent": 27
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 398,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+            "parent": 28
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 399,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh A",
+            "parent": 28
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 4,
+        "fields": {
+            "name": "B\u1eafc K\u1ea1n",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 40,
+        "fields": {
+            "name": "Nam \u0110\u1ecbnh",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 400,
+        "fields": {
+            "name": "Huy\u1ec7n Long M\u1ef9",
+            "parent": 28
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 401,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u1ee5ng Hi\u1ec7p",
+            "parent": 28
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 402,
+        "fields": {
+            "name": "Huy\u1ec7n V\u1ecb Thu\u1ef7",
+            "parent": 28
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 403,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 V\u1ecb Thanh",
+            "parent": 28
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 404,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Long M\u1ef9",
+            "parent": 28
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 405,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Ng\u00e3 B\u1ea3y",
+            "parent": 28
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 406,
+        "fields": {
+            "name": "Huy\u1ec7n Cao Phong",
+            "parent": 29
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 407,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u00e0 B\u1eafc",
+            "parent": 29
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 408,
+        "fields": {
+            "name": "Huy\u1ec7n Kim B\u00f4i",
+            "parent": 29
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 409,
+        "fields": {
+            "name": "Huy\u1ec7n K\u1ef3 S\u01a1n",
+            "parent": 29
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 41,
+        "fields": {
+            "name": "Ngh\u1ec7 An",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 410,
+        "fields": {
+            "name": "Huy\u1ec7n L\u1ea1c S\u01a1n",
+            "parent": 29
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 411,
+        "fields": {
+            "name": "Huy\u1ec7n L\u1ea1c Th\u1ee7y",
+            "parent": 29
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 412,
+        "fields": {
+            "name": "Huy\u1ec7n L\u01b0\u01a1ng S\u01a1n",
+            "parent": 29
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 413,
+        "fields": {
+            "name": "Huy\u1ec7n Mai Ch\u00e2u",
+            "parent": 29
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 414,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n L\u1ea1c",
+            "parent": 29
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 415,
+        "fields": {
+            "name": "Huy\u1ec7n Y\u00ean Th\u1ee7y",
+            "parent": 29
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 416,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 H\u00f2a B\u00ecnh",
+            "parent": 29
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 417,
+        "fields": {
+            "name": "Qu\u1eadn 1",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 418,
+        "fields": {
+            "name": "Qu\u1eadn 2",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 419,
+        "fields": {
+            "name": "Qu\u1eadn 3",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 42,
+        "fields": {
+            "name": "Ninh B\u00ecnh",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 420,
+        "fields": {
+            "name": "Qu\u1eadn 4",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 421,
+        "fields": {
+            "name": "Qu\u1eadn 5",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 422,
+        "fields": {
+            "name": "Qu\u1eadn 6",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 423,
+        "fields": {
+            "name": "Qu\u1eadn 7",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 424,
+        "fields": {
+            "name": "Qu\u1eadn 8",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 425,
+        "fields": {
+            "name": "Qu\u1eadn 9",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 426,
+        "fields": {
+            "name": "Qu\u1eadn 10",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 427,
+        "fields": {
+            "name": "Qu\u1eadn 11",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 428,
+        "fields": {
+            "name": "Qu\u1eadn 12",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 429,
+        "fields": {
+            "name": "Qu\u1eadn B\u00ecnh T\u00e2n",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 43,
+        "fields": {
+            "name": "Ninh Thu\u1eadn",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 430,
+        "fields": {
+            "name": "Qu\u1eadn B\u00ecnh Th\u1ea1nh",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 431,
+        "fields": {
+            "name": "Qu\u1eadn G\u00f2 V\u1ea5p",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 432,
+        "fields": {
+            "name": "Qu\u1eadn Ph\u00fa Nhu\u1eadn",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 433,
+        "fields": {
+            "name": "Qu\u1eadn T\u00e2n B\u00ecnh",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 434,
+        "fields": {
+            "name": "Qu\u1eadn T\u00e2n Ph\u00fa",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 435,
+        "fields": {
+            "name": "Qu\u1eadn Th\u1ee7 \u0110\u1ee9c",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 436,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00ecnh Ch\u00e1nh",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 437,
+        "fields": {
+            "name": "Huy\u1ec7n C\u1ea7n Gi\u1edd",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 438,
+        "fields": {
+            "name": "Huy\u1ec7n C\u1ee7 Chi",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 439,
+        "fields": {
+            "name": "Huy\u1ec7n H\u00f3c M\u00f4n",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 44,
+        "fields": {
+            "name": "Ph\u00fa Th\u1ecd",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 440,
+        "fields": {
+            "name": "Huy\u1ec7n Nh\u00e0 B\u00e8",
+            "parent": 30
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 441,
+        "fields": {
+            "name": "Huy\u1ec7n \u00c2n Thi",
+            "parent": 31
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 442,
+        "fields": {
+            "name": "Huy\u1ec7n Kho\u00e1i Ch\u00e2u",
+            "parent": 31
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 443,
+        "fields": {
+            "name": "Huy\u1ec7n Kim \u0110\u1ed9ng",
+            "parent": 31
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 444,
+        "fields": {
+            "name": "Huy\u1ec7n M\u1ef9 H\u00e0o",
+            "parent": 31
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 445,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00f9 C\u1eeb",
+            "parent": 31
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 446,
+        "fields": {
+            "name": "Huy\u1ec7n Ti\u00ean L\u1eef",
+            "parent": 31
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 447,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0103n Giang",
+            "parent": 31
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 448,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0103n L\u00e2m",
+            "parent": 31
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 449,
+        "fields": {
+            "name": "Huy\u1ec7n Y\u00ean M\u1ef9",
+            "parent": 31
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 45,
+        "fields": {
+            "name": "Ph\u00fa Y\u00ean",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 450,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 H\u01b0ng Y\u00ean",
+            "parent": 31
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 451,
+        "fields": {
+            "name": "Huy\u1ec7n Cam L\u00e2m",
+            "parent": 32
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 452,
+        "fields": {
+            "name": "Huy\u1ec7n Di\u00ean Kh\u00e1nh",
+            "parent": 32
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 453,
+        "fields": {
+            "name": "Huy\u1ec7n Kh\u00e1nh S\u01a1n",
+            "parent": 32
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 454,
+        "fields": {
+            "name": "Huy\u1ec7n Kh\u00e1nh V\u0129nh",
+            "parent": 32
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 455,
+        "fields": {
+            "name": "Huy\u1ec7n Tr\u01b0\u1eddng Sa",
+            "parent": 32
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 456,
+        "fields": {
+            "name": "Huy\u1ec7n V\u1ea1n Ninh",
+            "parent": 32
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 457,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Cam Ranh",
+            "parent": 32
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 458,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Nha Trang",
+            "parent": 32
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 459,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Ninh H\u00f2a",
+            "parent": 32
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 46,
+        "fields": {
+            "name": "Qu\u1ea3ng B\u00ecnh",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 460,
+        "fields": {
+            "name": "Huy\u1ec7n An Bi\u00ean",
+            "parent": 33
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 461,
+        "fields": {
+            "name": "Huy\u1ec7n An Minh",
+            "parent": 33
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 462,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+            "parent": 33
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 463,
+        "fields": {
+            "name": "Huy\u1ec7n Giang Th\u00e0nh",
+            "parent": 33
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 464,
+        "fields": {
+            "name": "Huy\u1ec7n Gi\u1ed3ng Ri\u1ec1ng",
+            "parent": 33
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 465,
+        "fields": {
+            "name": "Huy\u1ec7n G\u00f2 Quao",
+            "parent": 33
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 466,
+        "fields": {
+            "name": "Huy\u1ec7n H\u00f2n \u0110\u1ea5t",
+            "parent": 33
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 467,
+        "fields": {
+            "name": "Huy\u1ec7n Ki\u00ean H\u1ea3i",
+            "parent": 33
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 468,
+        "fields": {
+            "name": "Huy\u1ec7n Ki\u00ean L\u01b0\u01a1ng",
+            "parent": 33
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 469,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00fa Qu\u1ed1c",
+            "parent": 33
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 47,
+        "fields": {
+            "name": "Qu\u1ea3ng Nam",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 470,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n Hi\u1ec7p",
+            "parent": 33
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 471,
+        "fields": {
+            "name": "Huy\u1ec7n U Minh Th\u01b0\u1ee3ng",
+            "parent": 33
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 472,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0129nh Thu\u1eadn",
+            "parent": 33
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 473,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 R\u1ea1ch Gi\u00e1",
+            "parent": 33
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 474,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 H\u00e0 Ti\u00ean",
+            "parent": 33
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 475,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1eafk Glei",
+            "parent": 34
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 476,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1eafk H\u00e0",
+            "parent": 34
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 477,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1eafk T\u00f4",
+            "parent": 34
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 478,
+        "fields": {
+            "name": "Huy\u1ec7n Ia H' Drai",
+            "parent": 34
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 479,
+        "fields": {
+            "name": "Huy\u1ec7n Kon Pl\u00f4ng",
+            "parent": 34
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 48,
+        "fields": {
+            "name": "Qu\u1ea3ng Ng\u00e3i",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 480,
+        "fields": {
+            "name": "Huy\u1ec7n Kon R\u1eaby",
+            "parent": 34
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 481,
+        "fields": {
+            "name": "Huy\u1ec7n Ng\u1ecdc H\u1ed3i",
+            "parent": 34
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 482,
+        "fields": {
+            "name": "Huy\u1ec7n Sa Th\u1ea7y",
+            "parent": 34
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 483,
+        "fields": {
+            "name": "Huy\u1ec7n Tu M\u01a1 R\u00f4ng",
+            "parent": 34
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 484,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Kon Tum",
+            "parent": 34
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 485,
+        "fields": {
+            "name": "Huy\u1ec7n M\u01b0\u1eddng T\u00e8",
+            "parent": 35
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 486,
+        "fields": {
+            "name": "Huy\u1ec7n N\u1eadm Nh\u00f9n",
+            "parent": 35
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 487,
+        "fields": {
+            "name": "Huy\u1ec7n Phong Th\u1ed5",
+            "parent": 35
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 488,
+        "fields": {
+            "name": "Huy\u1ec7n S\u00ecn H\u1ed3",
+            "parent": 35
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 489,
+        "fields": {
+            "name": "Huy\u1ec7n Tam \u0110\u01b0\u1eddng",
+            "parent": 35
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 49,
+        "fields": {
+            "name": "Qu\u1ea3ng Ninh",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 490,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n Uy\u00ean",
+            "parent": 35
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 491,
+        "fields": {
+            "name": "Huy\u1ec7n Than Uy\u00ean",
+            "parent": 35
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 492,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Lai Ch\u00e2u",
+            "parent": 35
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 493,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1ea3o L\u00e2m",
+            "parent": 36
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 494,
+        "fields": {
+            "name": "Huy\u1ec7n C\u00e1t Ti\u00ean",
+            "parent": 36
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 495,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ea1 Huoai",
+            "parent": 36
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 496,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ea1 T\u1ebbh",
+            "parent": 36
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 497,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110am R\u00f4ng",
+            "parent": 36
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 498,
+        "fields": {
+            "name": "Huy\u1ec7n Di Linh",
+            "parent": 36
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 499,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u01a1n D\u01b0\u01a1ng",
+            "parent": 36
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 5,
+        "fields": {
+            "name": "B\u1ea1c Li\u00eau",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 50,
+        "fields": {
+            "name": "Qu\u1ea3ng Tr\u1ecb",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 500,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ee9c Tr\u1ecdng",
+            "parent": 36
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 501,
+        "fields": {
+            "name": "Huy\u1ec7n L\u1ea1c D\u01b0\u01a1ng",
+            "parent": 36
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 502,
+        "fields": {
+            "name": "Huy\u1ec7n L\u00e2m H\u00e0",
+            "parent": 36
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 503,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 B\u1ea3o L\u1ed9c",
+            "parent": 36
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 504,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 L\u1ea1t",
+            "parent": 36
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 505,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1eafc S\u01a1n",
+            "parent": 37
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 506,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00ecnh Gia",
+            "parent": 37
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 507,
+        "fields": {
+            "name": "Huy\u1ec7n Cao L\u1ed9c",
+            "parent": 37
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 508,
+        "fields": {
+            "name": "Huy\u1ec7n Chi L\u0103ng",
+            "parent": 37
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 509,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u00ecnh L\u1eadp",
+            "parent": 37
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 51,
+        "fields": {
+            "name": "S\u00f3c Tr\u0103ng",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 510,
+        "fields": {
+            "name": "Huy\u1ec7n H\u1eefu L\u0169ng",
+            "parent": 37
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 511,
+        "fields": {
+            "name": "Huy\u1ec7n L\u1ed9c B\u00ecnh",
+            "parent": 37
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 512,
+        "fields": {
+            "name": "Huy\u1ec7n Tr\u00e0ng \u0110\u1ecbnh",
+            "parent": 37
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 513,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0103n L\u00e3ng",
+            "parent": 37
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 514,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0103n Quan",
+            "parent": 37
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 515,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 L\u1ea1ng S\u01a1n",
+            "parent": 37
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 516,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1eafc H\u00e0",
+            "parent": 38
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 517,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1ea3o Th\u1eafng",
+            "parent": 38
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 518,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1ea3o Y\u00ean",
+            "parent": 38
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 519,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00e1t X\u00e1t",
+            "parent": 38
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 52,
+        "fields": {
+            "name": "S\u01a1n La",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 520,
+        "fields": {
+            "name": "Huy\u1ec7n M\u01b0\u1eddng Kh\u01b0\u01a1ng",
+            "parent": 38
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 521,
+        "fields": {
+            "name": "Huy\u1ec7n Sa Pa",
+            "parent": 38
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 522,
+        "fields": {
+            "name": "Huy\u1ec7n Si Ma Cai",
+            "parent": 38
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 523,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0103n B\u00e0n",
+            "parent": 38
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 524,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 L\u00e0o Cai",
+            "parent": 38
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 525,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1ebfn L\u1ee9c",
+            "parent": 39
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 526,
+        "fields": {
+            "name": "Huy\u1ec7n C\u1ea7n \u0110\u01b0\u1edbc",
+            "parent": 39
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 527,
+        "fields": {
+            "name": "Huy\u1ec7n C\u1ea7n Giu\u1ed9c",
+            "parent": 39
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 528,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+            "parent": 39
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 529,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ee9c H\u00f2a",
+            "parent": 39
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 53,
+        "fields": {
+            "name": "T\u00e2y Ninh",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 530,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ee9c Hu\u1ec7",
+            "parent": 39
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 531,
+        "fields": {
+            "name": "Huy\u1ec7n M\u1ed9c H\u00f3a",
+            "parent": 39
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 532,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n H\u01b0ng",
+            "parent": 39
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 533,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n Th\u1ea1nh",
+            "parent": 39
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 534,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n Tr\u1ee5",
+            "parent": 39
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 535,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u1ea1nh H\u00f3a",
+            "parent": 39
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 536,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u1ee7 Th\u1eeba",
+            "parent": 39
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 537,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0129nh H\u01b0ng",
+            "parent": 39
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 538,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 T\u00e2n An",
+            "parent": 39
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 539,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Ki\u1ebfn T\u01b0\u1eddng",
+            "parent": 39
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 54,
+        "fields": {
+            "name": "Th\u00e1i B\u00ecnh",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 540,
+        "fields": {
+            "name": "Huy\u1ec7n Giao Th\u1ee7y",
+            "parent": 40
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 541,
+        "fields": {
+            "name": "Huy\u1ec7n H\u1ea3i H\u1eadu",
+            "parent": 40
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 542,
+        "fields": {
+            "name": "Huy\u1ec7n M\u1ef9 L\u1ed9c",
+            "parent": 40
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 543,
+        "fields": {
+            "name": "Huy\u1ec7n Nam Tr\u1ef1c",
+            "parent": 40
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 544,
+        "fields": {
+            "name": "Huy\u1ec7n Ngh\u0129a H\u01b0ng",
+            "parent": 40
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 545,
+        "fields": {
+            "name": "Huy\u1ec7n Tr\u1ef1c Ninh",
+            "parent": 40
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 546,
+        "fields": {
+            "name": "Huy\u1ec7n V\u1ee5 B\u1ea3n",
+            "parent": 40
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 547,
+        "fields": {
+            "name": "Huy\u1ec7n Xu\u00e2n Tr\u01b0\u1eddng",
+            "parent": 40
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 548,
+        "fields": {
+            "name": "Huy\u1ec7n \u00dd Y\u00ean",
+            "parent": 40
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 549,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Nam \u0110\u1ecbnh",
+            "parent": 40
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 55,
+        "fields": {
+            "name": "Th\u00e1i Nguy\u00ean",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 550,
+        "fields": {
+            "name": "Huy\u1ec7n Anh S\u01a1n",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 551,
+        "fields": {
+            "name": "Huy\u1ec7n Con Cu\u00f4ng",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 552,
+        "fields": {
+            "name": "Huy\u1ec7n Di\u1ec5n Ch\u00e2u",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 553,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u00f4 L\u01b0\u01a1ng",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 554,
+        "fields": {
+            "name": "Huy\u1ec7n H\u01b0ng Nguy\u00ean",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 555,
+        "fields": {
+            "name": "Huy\u1ec7n K\u1ef3 S\u01a1n",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 556,
+        "fields": {
+            "name": "Huy\u1ec7n Nam \u0110\u00e0n",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 557,
+        "fields": {
+            "name": "Huy\u1ec7n Nghi L\u1ed9c",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 558,
+        "fields": {
+            "name": "Huy\u1ec7n Ngh\u0129a \u0110\u00e0n",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 559,
+        "fields": {
+            "name": "Huy\u1ec7n Qu\u1ebf Phong",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 56,
+        "fields": {
+            "name": "Thanh H\u00f3a",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 560,
+        "fields": {
+            "name": "Huy\u1ec7n Qu\u1ef3 Ch\u00e2u",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 561,
+        "fields": {
+            "name": "Huy\u1ec7n Qu\u1ef3 H\u1ee3p",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 562,
+        "fields": {
+            "name": "Huy\u1ec7n Qu\u1ef3nh L\u01b0u",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 563,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n K\u1ef3",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 564,
+        "fields": {
+            "name": "Huy\u1ec7n Thanh Ch\u01b0\u01a1ng",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 565,
+        "fields": {
+            "name": "Huy\u1ec7n T\u01b0\u01a1ng D\u01b0\u01a1ng",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 566,
+        "fields": {
+            "name": "Huy\u1ec7n Y\u00ean Th\u00e0nh",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 567,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Vinh",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 568,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 C\u1eeda L\u00f2",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 569,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Ho\u00e0ng Mai",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 57,
+        "fields": {
+            "name": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 570,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Th\u00e1i Ho\u00e0",
+            "parent": 41
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 571,
+        "fields": {
+            "name": "Huy\u1ec7n Gia Vi\u1ec5n",
+            "parent": 42
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 572,
+        "fields": {
+            "name": "Huy\u1ec7n Hoa L\u01b0",
+            "parent": 42
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 573,
+        "fields": {
+            "name": "Huy\u1ec7n Kim S\u01a1n",
+            "parent": 42
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 574,
+        "fields": {
+            "name": "Huy\u1ec7n Nho Quan",
+            "parent": 42
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 575,
+        "fields": {
+            "name": "Huy\u1ec7n Y\u00ean Kh\u00e1nh",
+            "parent": 42
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 576,
+        "fields": {
+            "name": "Huy\u1ec7n Y\u00ean M\u00f4",
+            "parent": 42
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 577,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Ninh B\u00ecnh",
+            "parent": 42
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 578,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Tam \u0110i\u1ec7p",
+            "parent": 42
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 579,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00e1c \u00c1i",
+            "parent": 43
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 58,
+        "fields": {
+            "name": "Ti\u1ec1n Giang",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 580,
+        "fields": {
+            "name": "Huy\u1ec7n Ninh H\u1ea3i",
+            "parent": 43
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 581,
+        "fields": {
+            "name": "Huy\u1ec7n Ninh Ph\u01b0\u1edbc",
+            "parent": 43
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 582,
+        "fields": {
+            "name": "Huy\u1ec7n Ninh S\u01a1n",
+            "parent": 43
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 583,
+        "fields": {
+            "name": "Huy\u1ec7n Thu\u1eadn B\u1eafc",
+            "parent": 43
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 584,
+        "fields": {
+            "name": "Huy\u1ec7n Thu\u1eadn Nam",
+            "parent": 43
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 585,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Phan Rang-Th\u00e1p Ch\u00e0m",
+            "parent": 43
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 586,
+        "fields": {
+            "name": "Huy\u1ec7n C\u1ea9m Kh\u00ea",
+            "parent": 44
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 587,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110oan H\u00f9ng",
+            "parent": 44
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 588,
+        "fields": {
+            "name": "Huy\u1ec7n H\u1ea1 Ho\u00e0",
+            "parent": 44
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 589,
+        "fields": {
+            "name": "Huy\u1ec7n L\u00e2m Thao",
+            "parent": 44
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 59,
+        "fields": {
+            "name": "Tr\u00e0 Vinh",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 590,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00f9 Ninh",
+            "parent": 44
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 591,
+        "fields": {
+            "name": "Huy\u1ec7n Tam N\u00f4ng",
+            "parent": 44
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 592,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n S\u01a1n",
+            "parent": 44
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 593,
+        "fields": {
+            "name": "Huy\u1ec7n Thanh Ba",
+            "parent": 44
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 594,
+        "fields": {
+            "name": "Huy\u1ec7n Thanh S\u01a1n",
+            "parent": 44
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 595,
+        "fields": {
+            "name": "Huy\u1ec7n Thanh Thu\u1ef7",
+            "parent": 44
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 596,
+        "fields": {
+            "name": "Huy\u1ec7n Y\u00ean L\u1eadp",
+            "parent": 44
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 597,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Vi\u1ec7t Tr\u00ec",
+            "parent": 44
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 598,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Ph\u00fa Th\u1ecd",
+            "parent": 44
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 599,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u00f4ng H\u00f2a",
+            "parent": 45
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 6,
+        "fields": {
+            "name": "B\u1eafc Ninh",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 60,
+        "fields": {
+            "name": "Tuy\u00ean Quang",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 600,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ed3ng Xu\u00e2n",
+            "parent": 45
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 601,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00fa Ho\u00e0",
+            "parent": 45
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 602,
+        "fields": {
+            "name": "Huy\u1ec7n S\u01a1n H\u00f2a",
+            "parent": 45
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 603,
+        "fields": {
+            "name": "Huy\u1ec7n S\u00f4ng Hinh",
+            "parent": 45
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 604,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2y Ho\u00e0",
+            "parent": 45
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 605,
+        "fields": {
+            "name": "Huy\u1ec7n Tuy An",
+            "parent": 45
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 606,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Tuy Ho\u00e0",
+            "parent": 45
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 607,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 S\u00f4ng C\u1ea7u",
+            "parent": 45
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 608,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1ed1 Tr\u1ea1ch",
+            "parent": 46
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 609,
+        "fields": {
+            "name": "Huy\u1ec7n L\u1ec7 Th\u1ee7y",
+            "parent": 46
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 61,
+        "fields": {
+            "name": "V\u0129nh Long",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 610,
+        "fields": {
+            "name": "Huy\u1ec7n Minh H\u00f3a",
+            "parent": 46
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 611,
+        "fields": {
+            "name": "Huy\u1ec7n Qu\u1ea3ng Ninh",
+            "parent": 46
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 612,
+        "fields": {
+            "name": "Huy\u1ec7n Qu\u1ea3ng Tr\u1ea1ch",
+            "parent": 46
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 613,
+        "fields": {
+            "name": "Huy\u1ec7n Tuy\u00ean H\u00f3a",
+            "parent": 46
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 614,
+        "fields": {
+            "name": "Th\u00e0nh Ph\u1ed1 \u0110\u1ed3ng H\u1edbi",
+            "parent": 46
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 615,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Ba \u0110\u1ed3n",
+            "parent": 46
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 616,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1eafc Tr\u00e0 My",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 617,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ea1i L\u1ed9c",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 618,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u00f4ng Giang",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 619,
+        "fields": {
+            "name": "Huy\u1ec7n Duy Xuy\u00ean",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 62,
+        "fields": {
+            "name": "V\u0129nh Ph\u00fac",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 620,
+        "fields": {
+            "name": "Huy\u1ec7n Hi\u1ec7p \u0110\u1ee9c",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 621,
+        "fields": {
+            "name": "Huy\u1ec7n Nam Giang",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 622,
+        "fields": {
+            "name": "Huy\u1ec7n Nam Tr\u00e0 My",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 623,
+        "fields": {
+            "name": "Huy\u1ec7n N\u00f4ng S\u01a1n",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 624,
+        "fields": {
+            "name": "Huy\u1ec7n N\u00fai Th\u00e0nh",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 625,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00fa Ninh",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 626,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u01b0\u1edbc S\u01a1n",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 627,
+        "fields": {
+            "name": "Huy\u1ec7n Qu\u1ebf S\u01a1n",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 628,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2y Giang",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 629,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u0103ng B\u00ecnh",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 63,
+        "fields": {
+            "name": "Y\u00ean B\u00e1i",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 630,
+        "fields": {
+            "name": "Huy\u1ec7n Ti\u00ean Ph\u01b0\u1edbc",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 631,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 H\u1ed9i An",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 632,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Tam K\u1ef3",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 633,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 \u0110i\u1ec7n B\u00e0n",
+            "parent": 47
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 634,
+        "fields": {
+            "name": "Huy\u1ec7n Ba T\u01a1",
+            "parent": 48
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 635,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00ecnh S\u01a1n",
+            "parent": 48
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 636,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ee9c Ph\u1ed5",
+            "parent": 48
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 637,
+        "fields": {
+            "name": "Huy\u1ec7n L\u00fd S\u01a1n",
+            "parent": 48
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 638,
+        "fields": {
+            "name": "Huy\u1ec7n Minh Long",
+            "parent": 48
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 639,
+        "fields": {
+            "name": "Huy\u1ec7n M\u1ed9 \u0110\u1ee9c",
+            "parent": 48
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 640,
+        "fields": {
+            "name": "Huy\u1ec7n Ngh\u0129a H\u00e0nh",
+            "parent": 48
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 641,
+        "fields": {
+            "name": "Huy\u1ec7n S\u01a1n H\u00e0",
+            "parent": 48
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 642,
+        "fields": {
+            "name": "Huy\u1ec7n S\u01a1n T\u00e2y",
+            "parent": 48
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 643,
+        "fields": {
+            "name": "Huy\u1ec7n S\u01a1n T\u1ecbnh",
+            "parent": 48
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 644,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2y Tr\u00e0",
+            "parent": 48
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 645,
+        "fields": {
+            "name": "Huy\u1ec7n Tr\u00e0 B\u1ed3ng",
+            "parent": 48
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 646,
+        "fields": {
+            "name": "Huy\u1ec7n T\u01b0 Ngh\u0129a",
+            "parent": 48
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 647,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Qu\u1ea3ng Ng\u00e3i",
+            "parent": 48
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 648,
+        "fields": {
+            "name": "Huy\u1ec7n Ba Ch\u1ebd",
+            "parent": 49
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 649,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00ecnh Li\u00eau",
+            "parent": 49
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 650,
+        "fields": {
+            "name": "Huy\u1ec7n C\u00f4 T\u00f4",
+            "parent": 49
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 651,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ea7m H\u00e0",
+            "parent": 49
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 652,
+        "fields": {
+            "name": "Huy\u1ec7n H\u1ea3i H\u00e0",
+            "parent": 49
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 653,
+        "fields": {
+            "name": "Huy\u1ec7n Ho\u00e0nh B\u1ed3",
+            "parent": 49
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 654,
+        "fields": {
+            "name": "Huy\u1ec7n Ti\u00ean Y\u00ean",
+            "parent": 49
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 655,
+        "fields": {
+            "name": "Huy\u1ec7n V\u00e2n \u0110\u1ed3n",
+            "parent": 49
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 656,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 C\u1ea9m Ph\u1ea3",
+            "parent": 49
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 657,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 H\u1ea1 Long",
+            "parent": 49
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 658,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 M\u00f3ng C\u00e1i",
+            "parent": 49
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 659,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 U\u00f4ng B\u00ed",
+            "parent": 49
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 660,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 \u0110\u00f4ng Tri\u1ec1u",
+            "parent": 49
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 661,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Qu\u1ea3ng Y\u00ean",
+            "parent": 49
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 662,
+        "fields": {
+            "name": "Huy\u1ec7n Cam L\u1ed9",
+            "parent": 50
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 663,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110a Kr\u00f4ng",
+            "parent": 50
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 664,
+        "fields": {
+            "name": "Huy\u1ec7n Gio Linh",
+            "parent": 50
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 665,
+        "fields": {
+            "name": "Huy\u1ec7n H\u1ea3i L\u0103ng",
+            "parent": 50
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 666,
+        "fields": {
+            "name": "Huy\u1ec7n H\u01b0\u1edbng H\u00f3a",
+            "parent": 50
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 667,
+        "fields": {
+            "name": "Huy\u1ec7n Tri\u1ec7u Phong",
+            "parent": 50
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 668,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0129nh Linh",
+            "parent": 50
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 669,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 \u0110\u00f4ng H\u00e0",
+            "parent": 50
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 670,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Qu\u1ea3ng Tr\u1ecb",
+            "parent": 50
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 671,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+            "parent": 51
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 672,
+        "fields": {
+            "name": "Huy\u1ec7n C\u00f9 Lao Dung",
+            "parent": 51
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 673,
+        "fields": {
+            "name": "Huy\u1ec7n K\u1ebf S\u00e1ch",
+            "parent": 51
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 674,
+        "fields": {
+            "name": "Huy\u1ec7n Long Ph\u00fa",
+            "parent": 51
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 675,
+        "fields": {
+            "name": "Huy\u1ec7n M\u1ef9 T\u00fa",
+            "parent": 51
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 676,
+        "fields": {
+            "name": "Huy\u1ec7n M\u1ef9 Xuy\u00ean",
+            "parent": 51
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 677,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u1ea1nh Tr\u1ecb",
+            "parent": 51
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 678,
+        "fields": {
+            "name": "Huy\u1ec7n Tr\u1ea7n \u0110\u1ec1",
+            "parent": 51
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 679,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 S\u00f3c Tr\u0103ng",
+            "parent": 51
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 680,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Ng\u00e3 N\u0103m",
+            "parent": 51
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 681,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 V\u0129nh Ch\u00e2u",
+            "parent": 51
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 682,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1eafc Y\u00ean",
+            "parent": 52
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 683,
+        "fields": {
+            "name": "Huy\u1ec7n Mai S\u01a1n",
+            "parent": 52
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 684,
+        "fields": {
+            "name": "Huy\u1ec7n M\u1ed9c Ch\u00e2u",
+            "parent": 52
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 685,
+        "fields": {
+            "name": "Huy\u1ec7n M\u01b0\u1eddng La",
+            "parent": 52
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 686,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00f9 Y\u00ean",
+            "parent": 52
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 687,
+        "fields": {
+            "name": "Huy\u1ec7n Qu\u1ef3nh Nhai",
+            "parent": 52
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 688,
+        "fields": {
+            "name": "Huy\u1ec7n S\u00f4ng M\u00e3",
+            "parent": 52
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 689,
+        "fields": {
+            "name": "Huy\u1ec7n S\u1ed1p C\u1ed9p",
+            "parent": 52
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 690,
+        "fields": {
+            "name": "Huy\u1ec7n Thu\u1eadn Ch\u00e2u",
+            "parent": 52
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 691,
+        "fields": {
+            "name": "Huy\u1ec7n V\u00e2n H\u1ed3",
+            "parent": 52
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 692,
+        "fields": {
+            "name": "Huy\u1ec7n Y\u00ean Ch\u00e2u",
+            "parent": 52
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 693,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 S\u01a1n La",
+            "parent": 52
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 694,
+        "fields": {
+            "name": "Huy\u1ec7n B\u1ebfn C\u1ea7u",
+            "parent": 53
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 695,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+            "parent": 53
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 696,
+        "fields": {
+            "name": "Huy\u1ec7n D\u01b0\u01a1ng Minh Ch\u00e2u",
+            "parent": 53
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 697,
+        "fields": {
+            "name": "Huy\u1ec7n G\u00f2 D\u1ea7u",
+            "parent": 53
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 698,
+        "fields": {
+            "name": "Huy\u1ec7n H\u00f2a Th\u00e0nh",
+            "parent": 53
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 699,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n Bi\u00ean",
+            "parent": 53
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 7,
+        "fields": {
+            "name": "B\u1ebfn Tre",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 700,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n Ch\u00e2u",
+            "parent": 53
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 701,
+        "fields": {
+            "name": "Huy\u1ec7n Tr\u1ea3ng B\u00e0ng",
+            "parent": 53
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 702,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 T\u00e2y Ninh",
+            "parent": 53
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 703,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u00f4ng H\u01b0ng",
+            "parent": 54
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 704,
+        "fields": {
+            "name": "Huy\u1ec7n H\u01b0ng H\u00e0",
+            "parent": 54
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 705,
+        "fields": {
+            "name": "Huy\u1ec7n Ki\u1ebfn X\u01b0\u01a1ng",
+            "parent": 54
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 706,
+        "fields": {
+            "name": "Huy\u1ec7n Qu\u1ef3nh Ph\u1ee5",
+            "parent": 54
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 707,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u00e1i Th\u1ee5y",
+            "parent": 54
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 708,
+        "fields": {
+            "name": "Huy\u1ec7n Ti\u1ec1n H\u1ea3i",
+            "parent": 54
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 709,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0169 Th\u01b0",
+            "parent": 54
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 710,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Th\u00e1i B\u00ecnh",
+            "parent": 54
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 711,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ea1i T\u1eeb",
+            "parent": 55
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 712,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ecbnh H\u00f3a",
+            "parent": 55
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 713,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u1ed3ng H\u1ef7",
+            "parent": 55
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 714,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00fa B\u00ecnh",
+            "parent": 55
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 715,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00fa L\u01b0\u01a1ng",
+            "parent": 55
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 716,
+        "fields": {
+            "name": "Huy\u1ec7n V\u00f5 Nhai",
+            "parent": 55
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 717,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 S\u00f4ng C\u00f4ng",
+            "parent": 55
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 718,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Th\u00e1i Nguy\u00ean",
+            "parent": 55
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 719,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Ph\u1ed5 Y\u00ean",
+            "parent": 55
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 720,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00e1 Th\u01b0\u1edbc",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 721,
+        "fields": {
+            "name": "Huy\u1ec7n C\u1ea9m Th\u1ee7y",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 722,
+        "fields": {
+            "name": "Huy\u1ec7n \u0110\u00f4ng S\u01a1n",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 723,
+        "fields": {
+            "name": "Huy\u1ec7n H\u00e0 Trung",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 724,
+        "fields": {
+            "name": "Huy\u1ec7n H\u1eadu L\u1ed9c",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 725,
+        "fields": {
+            "name": "Huy\u1ec7n Ho\u1eb1ng H\u00f3a",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 726,
+        "fields": {
+            "name": "Huy\u1ec7n Lang Ch\u00e1nh",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 727,
+        "fields": {
+            "name": "Huy\u1ec7n M\u01b0\u1eddng L\u00e1t",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 728,
+        "fields": {
+            "name": "Huy\u1ec7n Nga S\u01a1n",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 729,
+        "fields": {
+            "name": "Huy\u1ec7n Ng\u1ecdc L\u1eb7c",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 730,
+        "fields": {
+            "name": "Huy\u1ec7n Nh\u01b0 Thanh",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 731,
+        "fields": {
+            "name": "Huy\u1ec7n Nh\u01b0 Xu\u00e2n",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 732,
+        "fields": {
+            "name": "Huy\u1ec7n N\u00f4ng C\u1ed1ng",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 733,
+        "fields": {
+            "name": "Huy\u1ec7n Quan H\u00f3a",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 734,
+        "fields": {
+            "name": "Huy\u1ec7n Quan S\u01a1n",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 735,
+        "fields": {
+            "name": "Huy\u1ec7n Qu\u1ea3ng X\u01b0\u01a1ng",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 736,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u1ea1ch Th\u00e0nh",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 737,
+        "fields": {
+            "name": "Huy\u1ec7n Thi\u1ec7u H\u00f3a",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 738,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u1ecd Xu\u00e2n",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 739,
+        "fields": {
+            "name": "Huy\u1ec7n Th\u01b0\u1eddng Xu\u00e2n",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 740,
+        "fields": {
+            "name": "Huy\u1ec7n T\u0129nh Gia",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 741,
+        "fields": {
+            "name": "Huy\u1ec7n Tri\u1ec7u S\u01a1n",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 742,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0129nh L\u1ed9c",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 743,
+        "fields": {
+            "name": "Huy\u1ec7n Y\u00ean \u0110\u1ecbnh",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 744,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Thanh H\u00f3a",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 745,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 B\u1ec9m S\u01a1n",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 746,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 S\u1ea7m S\u01a1n",
+            "parent": 56
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 747,
+        "fields": {
+            "name": "Huy\u1ec7n A L\u01b0\u1edbi",
+            "parent": 57
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 748,
+        "fields": {
+            "name": "Huy\u1ec7n Nam \u0110\u00f4ng",
+            "parent": 57
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 749,
+        "fields": {
+            "name": "Huy\u1ec7n Phong \u0110i\u1ec1n",
+            "parent": 57
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 750,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00fa L\u1ed9c",
+            "parent": 57
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 751,
+        "fields": {
+            "name": "Huy\u1ec7n Ph\u00fa Vang",
+            "parent": 57
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 752,
+        "fields": {
+            "name": "Huy\u1ec7n Qu\u1ea3ng \u0110i\u1ec1n",
+            "parent": 57
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 753,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Hu\u1ebf",
+            "parent": 57
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 754,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 H\u01b0\u01a1ng Th\u1ee7y",
+            "parent": 57
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 755,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 H\u01b0\u01a1ng Tr\u00e0",
+            "parent": 57
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 756,
+        "fields": {
+            "name": "Huy\u1ec7n C\u00e1i B\u00e8",
+            "parent": 58
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 757,
+        "fields": {
+            "name": "Huy\u1ec7n Cai L\u1eady",
+            "parent": 58
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 758,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+            "parent": 58
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 759,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u1ee3 G\u1ea1o",
+            "parent": 58
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 760,
+        "fields": {
+            "name": "Huy\u1ec7n G\u00f2 C\u00f4ng \u0110\u00f4ng",
+            "parent": 58
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 761,
+        "fields": {
+            "name": "Huy\u1ec7n G\u00f2 C\u00f4ng T\u00e2y",
+            "parent": 58
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 762,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n Ph\u00fa \u0110\u00f4ng",
+            "parent": 58
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 763,
+        "fields": {
+            "name": "Huy\u1ec7n T\u00e2n Ph\u01b0\u1edbc",
+            "parent": 58
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 764,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 M\u1ef9 Tho",
+            "parent": 58
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 765,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Cai L\u1eady",
+            "parent": 58
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 766,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 G\u00f2 C\u00f4ng",
+            "parent": 58
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 767,
+        "fields": {
+            "name": "Huy\u1ec7n C\u00e0ng Long",
+            "parent": 59
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 768,
+        "fields": {
+            "name": "Huy\u1ec7n C\u1ea7u K\u00e8",
+            "parent": 59
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 769,
+        "fields": {
+            "name": "Huy\u1ec7n C\u1ea7u Ngang",
+            "parent": 59
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 770,
+        "fields": {
+            "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+            "parent": 59
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 771,
+        "fields": {
+            "name": "Huy\u1ec7n Duy\u00ean H\u1ea3i",
+            "parent": 59
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 772,
+        "fields": {
+            "name": "Huy\u1ec7n Ti\u1ec3u C\u1ea7n",
+            "parent": 59
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 773,
+        "fields": {
+            "name": "Huy\u1ec7n Tr\u00e0 C\u00fa",
+            "parent": 59
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 774,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Tr\u00e0 Vinh",
+            "parent": 59
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 775,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Duy\u00ean H\u1ea3i",
+            "parent": 59
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 776,
+        "fields": {
+            "name": "Huy\u1ec7n Chi\u00eam H\u00f3a",
+            "parent": 60
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 777,
+        "fields": {
+            "name": "Huy\u1ec7n H\u00e0m Y\u00ean",
+            "parent": 60
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 778,
+        "fields": {
+            "name": "Huy\u1ec7n L\u00e2m B\u00ecnh",
+            "parent": 60
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 779,
+        "fields": {
+            "name": "Huy\u1ec7n N\u00e0 Hang",
+            "parent": 60
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 780,
+        "fields": {
+            "name": "Huy\u1ec7n S\u01a1n D\u01b0\u01a1ng",
+            "parent": 60
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 781,
+        "fields": {
+            "name": "Huy\u1ec7n Y\u00ean S\u01a1n",
+            "parent": 60
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 782,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Tuy\u00ean Quang",
+            "parent": 60
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 783,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00ecnh T\u00e2n",
+            "parent": 61
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 784,
+        "fields": {
+            "name": "Huy\u1ec7n Long H\u1ed3",
+            "parent": 61
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 785,
+        "fields": {
+            "name": "Huy\u1ec7n Mang Th\u00edt",
+            "parent": 61
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 786,
+        "fields": {
+            "name": "Huy\u1ec7n Tam B\u00ecnh",
+            "parent": 61
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 787,
+        "fields": {
+            "name": "Huy\u1ec7n Tr\u00e0 \u00d4n",
+            "parent": 61
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 788,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0169ng Li\u00eam",
+            "parent": 61
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 789,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 V\u0129nh Long",
+            "parent": 61
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 790,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 B\u00ecnh Minh",
+            "parent": 61
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 791,
+        "fields": {
+            "name": "Huy\u1ec7n B\u00ecnh Xuy\u00ean",
+            "parent": 62
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 792,
+        "fields": {
+            "name": "Huy\u1ec7n L\u1eadp Th\u1ea1ch",
+            "parent": 62
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 793,
+        "fields": {
+            "name": "Huy\u1ec7n S\u00f4ng L\u00f4",
+            "parent": 62
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 794,
+        "fields": {
+            "name": "Huy\u1ec7n Tam \u0110\u1ea3o",
+            "parent": 62
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 795,
+        "fields": {
+            "name": "Huy\u1ec7n Tam D\u01b0\u01a1ng",
+            "parent": 62
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 796,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0129nh T\u01b0\u1eddng",
+            "parent": 62
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 797,
+        "fields": {
+            "name": "Huy\u1ec7n Y\u00ean L\u1ea1c",
+            "parent": 62
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 798,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 V\u0129nh Y\u00ean",
+            "parent": 62
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 799,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Ph\u00fac Y\u00ean",
+            "parent": 62
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 8,
+        "fields": {
+            "name": "B\u00ecnh \u0110\u1ecbnh",
+            "parent": null
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 800,
+        "fields": {
+            "name": "Huy\u1ec7n L\u1ee5c Y\u00ean",
+            "parent": 63
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 801,
+        "fields": {
+            "name": "Huy\u1ec7n M\u00f9 C\u0103ng Ch\u1ea3i",
+            "parent": 63
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 802,
+        "fields": {
+            "name": "Huy\u1ec7n Tr\u1ea1m T\u1ea5u",
+            "parent": 63
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 803,
+        "fields": {
+            "name": "Huy\u1ec7n Tr\u1ea5n Y\u00ean",
+            "parent": 63
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 804,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0103n Ch\u1ea5n",
+            "parent": 63
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 805,
+        "fields": {
+            "name": "Huy\u1ec7n V\u0103n Y\u00ean",
+            "parent": 63
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 806,
+        "fields": {
+            "name": "Huy\u1ec7n Y\u00ean B\u00ecnh",
+            "parent": 63
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 807,
+        "fields": {
+            "name": "Th\u00e0nh ph\u1ed1 Y\u00ean B\u00e1i",
+            "parent": 63
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 808,
+        "fields": {
+            "name": "Th\u1ecb x\u00e3 Ngh\u0129a L\u1ed9",
+            "parent": 63
+        }
+    },
+    {
+        "model": "backend.area",
+        "pk": 9,
+        "fields": {
+            "name": "B\u00ecnh D\u01b0\u01a1ng",
+            "parent": null
+        }
+    }
+]

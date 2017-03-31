@@ -1,0 +1,10 @@
+define([], function() {
+	
+    var areas = {
+        {% for area in areas %}{{ area.id }}: "{{ area.name }}",{% endfor %}
+    };
+
+	return {
+        data: areas,
+    };
+});

@@ -20,6 +20,20 @@ class Church(models.Model):
     def __str__(self):
         return '{} [ {} ]'.format(self.name, self.address)
 
+    def to_json(self):
+        ll = self.location.split(',')
+        return dict(
+            id=self.id,
+            name=self.name,
+            area=self.area_id,
+            address=self.address,
+            location=dict(
+                lat=float(ll[0]),
+                long=float(ll[1])
+            ),
+            website=self.website
+        )
+
 
 class MassTime(models.Model):
     church = models.ForeignKey('Church', blank=False, null=False, related_name='masses')

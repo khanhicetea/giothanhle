@@ -1,0 +1,12 @@
+define(["js/churchModel"], function(Church) {
+	
+    var churches = [
+        {% for church in churches %}
+            {{ church.to_json|safe }} ,
+        {% endfor %}
+    ];
+
+	return {
+        data: churches,
+    };
+});

@@ -6,7 +6,8 @@
 		<div class="header-text">
 			{{#if model.isFavorite}}<i class="icon icon-favorite ion-ios7-star"></i>{{/if}}
 			<h3>{{model.name}}</h3>
-			<p>{{model.address}}</p>
+			<p><i class="icon ion-map"></i> : {{model.address}}</p>
+			<p><i class="icon ion-home"></i> : {{ model.website || 'Đang cập nhật' }}</p>
 		</div>
 	</div>
 </div>

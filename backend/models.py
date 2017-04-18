@@ -31,7 +31,8 @@ class Church(models.Model):
                 lat=float(ll[0]),
                 long=float(ll[1])
             ),
-            website=self.website
+            website=self.website,
+            masses=[m.to_json() for m in self.masses.all()]
         )
 
 
@@ -42,3 +43,9 @@ class MassTime(models.Model):
 
     def __str__(self):
         return '{} [ {} ]'.format(self.church.name, self.time)
+    
+    def to_json(self):
+        return dict(
+            day_of_week=self.day_of_week,
+            time=self.time.strftime('%H:%M')
+        )

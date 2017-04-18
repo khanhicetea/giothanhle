@@ -263,3 +263,6 @@ html.android .label-switch input[type="checkbox"] + .checkbox:after {
 html.android .list-block .list-group-title {
   display: none;
 }
+.searchbar input[type=search] {
+  color: black
+}

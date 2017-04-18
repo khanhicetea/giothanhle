@@ -1,13 +1,8 @@
 require.config({
     paths: {
-        handlebars: "lib/handlebars",
-        text: "lib/text",
-        hbs: "lib/hbs"
-    },
-    shim: {
-        handlebars: {
-            exports: "Handlebars"
-        }
+        handlebars: "libs/handlebars",
+        text: "libs/text",
+        hbs: "libs/hbs"
     }
 });
 define('app', ['js/router', 'js/utils'], function(Router, Utils) {

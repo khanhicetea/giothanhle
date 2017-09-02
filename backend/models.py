@@ -8,6 +8,13 @@ class Area(models.Model):
 
     def __str__(self):
         return self.name
+    
+    def to_json(self):
+        return dict(
+            id=self.id,
+            name=self.name,
+            parent_id=self.parent_id,
+        )
 
 
 class Church(models.Model):
@@ -32,7 +39,7 @@ class Church(models.Model):
                 long=float(ll[1])
             ),
             website=self.website,
-            masses=[m.to_json() for m in self.masses.all()]
+            masses=[m.to_json() for m in self.masses.all()],
         )
 
 

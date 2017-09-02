@@ -1,18 +1,15 @@
 from django.shortcuts import render
-from django.http import HttpResponse
+from django.http import JsonResponse
+from django.core import serializers
 from .models import Area, Church
 
 def index(request):
-    return HttpResponse("Hello world, IN GOD WE TRUST !!!")
+    return JsonResponse({"IN GOD": "WE TRUST"})
 
-def areas_js(request):
+def list_areas(request):
     areas = Area.objects.all()
-    return render(request, 'templates/areas.js.j2', {
-        'areas': areas
-    },content_type='application/javascript')
+    return JsonResponse({"data": [a.to_json() for a in areas]})
 
-def churches_js(request):
+def list_churches(request):
     churches = Church.objects.all()
-    return render(request, 'templates/churches.js.j2', {
-        'churches': churches
-    },content_type='application/javascript')
+    return JsonResponse({"data": [c.to_json() for c in churches]})

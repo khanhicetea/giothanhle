@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '#9v27%_qfw+!h3sm2if9o99&*%reu%#7pnn1h9@z1-z)e=4^mw'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = os.getenv('DEBUG', True)
+DEBUG = os.getenv('DEBUG', 'True').lower() == 'true'
 
 ALLOWED_HOSTS = [
     'localhost',
@@ -138,7 +138,7 @@ LOCATION_FIELD = {
     'search.suffix': '',
 
     # Google
-    'provider.google.api': '//maps.google.com/maps/api/js?sensor=false',
+    'provider.google.api': '//maps.google.com/maps/api/js',
     'provider.google.api_key': os.getenv('GOOGLE_MAPS_API_KEY', None),
     'provider.google.api_libraries': '',
     'provider.google.map.type': 'ROADMAP',

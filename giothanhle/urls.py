@@ -15,9 +15,10 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.contrib import admin
+import os, re
 
-
+admin_url_prefix = os.getenv('ADMIN_URL_PREFIX', 'admin')
 urlpatterns = [
     url(r'^backend/', include('backend.urls')),
-    url(r'^admin/', admin.site.urls),
+    url(r'^'+re.escape(admin_url_prefix)+r'/', admin.site.urls),
 ]

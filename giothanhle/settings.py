@@ -127,3 +127,19 @@ USE_TZ = True
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 STATIC_URL = '/static/'
 STATICFILES_DIRS = []
+
+# Location Field
+
+LOCATION_FIELD = {
+    'map.provider': 'google',
+    'map.zoom': 13,
+
+    'search.provider': 'google',
+    'search.suffix': '',
+
+    # Google
+    'provider.google.api': '//maps.google.com/maps/api/js?sensor=false',
+    'provider.google.api_key': os.getenv('GOOGLE_MAPS_API_KEY', None),
+    'provider.google.api_libraries': '',
+    'provider.google.map.type': 'ROADMAP',
+}

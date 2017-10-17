@@ -27,7 +27,9 @@ SECRET_KEY = '#9v27%_qfw+!h3sm2if9o99&*%reu%#7pnn1h9@z1-z)e=4^mw'
 DEBUG = os.getenv('DEBUG', True)
 
 ALLOWED_HOSTS = [
-    'giothanhle.herokuapp.com'
+    'localhost',
+    'giothanhle.herokuapp.com',
+    'giothanhle.org',
 ]
 
 
@@ -45,6 +47,7 @@ INSTALLED_APPS = [
 ]
 
 MIDDLEWARE = [
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -122,5 +125,6 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-STATIC_URL = '/assets/'
+STATIC_URL = '/static/'
 STATICFILES_DIRS = []
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'

@@ -170,4 +170,8 @@ $RECYCLE.BIN/
 # Editor
 .vscode/
 
+# static files
+static/**
+!static/robots.txt
+
 # End of https://www.gitignore.io/api/linux,osx,windows,python,django
